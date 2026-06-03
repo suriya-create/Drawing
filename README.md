@@ -4,7 +4,7 @@ Welcome to my drawing portfolio. This repository contains my artwork and sketche
 
 ## A. P. J. Abdul Kalam
 
-![A. P. J. Abdul Kalam](A-P-J-Abdul-Kalam.jpg)
+![A. P. J. Abdul Kalam](A. P.J Abdul Kalam.jpg)
 
 ### About the Drawing
 This is a hand-drawn portrait of Dr. A. P. J. Abdul Kalam, the former President of India and renowned aerospace scientist.
